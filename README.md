@@ -2,16 +2,16 @@
 An app that utilizes complex algorithms to encoded and decode messages with three different methods.
 
 ---
-##Link
+## Link
 [Live page](https://elizabethboterf.github.io/project-decoder-ring/)
 
 ---
-##Screenshots
+## Screenshots
 ###The Webpage:
 ![homepage part 1](https://user-images.githubusercontent.com/85326605/135694167-d85ab7e1-6183-4789-ac82-e4ed0985aa96.jpeg)
 ![homepage part 2](https://user-images.githubusercontent.com/85326605/135694170-a9666fdf-4632-4219-84eb-ef514968a456.jpeg)
 
-###How each mehtod works:
+### How each mehtod works:
 -> Caeser
 1. Type in the required values
 ![caeser shift](https://user-images.githubusercontent.com/85326605/135694270-72787501-327d-4056-8b2c-cfe31c80be7b.jpeg)
